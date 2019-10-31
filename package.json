@@ -1,0 +1,17 @@
+{
+  "name": "alura-timer-electron",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "Rastelli",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^7.0.0"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "ngrok": "^3.2.5"
+  }
+}
